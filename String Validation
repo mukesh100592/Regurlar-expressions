@@ -1,0 +1,1 @@
+(^[\d]+$){1}     : This regular expression allows only numbers in input string. not alphabet allowed in beginning, in between or at end
